@@ -1,4 +1,7 @@
 ld2012
 ======
 
-Linux Day 2012 presentation
+Presentazione Linux Day 2012
+
+* La privacy tra social network e cloud computing
+* Come può l'utente difendersi
